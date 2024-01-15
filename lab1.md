@@ -22,3 +22,33 @@
 1. The working directory was home
 2. I got the output of "lecture 1" and that is because ls prints out all the files and folders from the current working directory, and since I had no argument, it printed out the folder in the home directory.
 3. The output is not an error.
+
+## **ls with directory**
+![Image](lswithdirectory.png)
+1. The working directory was home.
+2. I got the output of "Hello.class Hello.java messages README", and that is because ls prints out all of the files and folders under the current directory, and these are the files under the lecture1 directory
+3. The output is not an error.
+
+## **ls with file**
+![Image](lsfile.png)
+1. The working directory was lecture1.
+2. I got the output of `Hello.java` and that is because I passed in the argument "Hello.java". When specified, ls prints out the file that is passed in as the argument.
+3. The output is not an error.
+
+## **cat with no arg**
+![Image](catnoarg.png)
+1. The working directory was home.
+2. There wasn't really an output when I typed in cat by itself. The only thing it did was show a blank space in the terminal, and whatever you typed, it was duplicated.
+3. The output is not an error
+
+## **cat with directory**
+![Image](catdirectory.png)
+1. The working directory was home.
+2. The output printed out that the directory I passed in as the argument is a directory. It is trying to tell me that you cannot use a directory with the cat command since cat prints out the contents of files.
+3. The output is sort of an error since the cat command does not use directories.
+
+## **cat with file**
+![Image](catfile.png)
+1. The working directory was lecture1.
+2. The output printed out the contents of the file README, which I passed in as the argument. This is our expected output since the cat command concatenates and prints out the contents of the file.
+3. The output is not an error.
