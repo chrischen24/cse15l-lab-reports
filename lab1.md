@@ -14,7 +14,7 @@
 ## **cd with file**
 ![Image](cdfile.png)
 1. The working directory was `lecture1`
-2. I got an output saying that the file I put in as an argument is not a directory, and that makes sense in this situation because cd is used to change the directory we are in and Hello.java is not a directory.
+2. I got an output saying that the file I put in as an argument is not a directory, and that makes sense in this situation because cd is used to change the directory we are in and `Hello.java` is not a directory.
 3. The output was an error and its an error because we put in a file as an argument when it only takes in a directory.
 
 ## **ls with no argument**
