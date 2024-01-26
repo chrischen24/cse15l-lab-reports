@@ -2,13 +2,13 @@
 ## **cd with no arguments**
 ![Image](cdnoarg.png)
 1. The working directory was `home`
-2. I got this output (nothing) because the command `cd` is supposed to bring us back to the 'home' directory, and since we are in the home directory, we stay there. if we were in a different directory, such as '/home/lecuture1' or '/home/lecture1/messages', it would bring us back to 'home'.
+2. I got this output (nothing) because the command `cd` is supposed to bring us back to the 'home' directory, and since we are in the home directory, we stay there. if we were in a different directory, such as `/home/lecuture1` or `/home/lecture1/messages`, it would bring us back to `home`.
 3. The output is not an error.
 
 ## **cd with directory**
 ![Image](cddirectory.png)
 1. The working directory was `home`
-2. There wasn't an actual output when I passed in a directory into the argument, but it changed the terminal by changing the directory to '/home/lecture1', which is was we wanted and expected from this.
+2. There wasn't an actual output when I passed in a directory into the argument, but it changed the terminal by changing the directory to `/home/lecture`, which is was we wanted and expected from this.
 3. The output is not an error.
 
 ## **cd with file**
