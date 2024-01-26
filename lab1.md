@@ -27,7 +27,7 @@
 ## **ls with directory**
 ![Image](lsdirectory.png)
 1. The working directory was `home`.
-2. I got the output of `Hello.class` `Hello.java` `messages` `README`, and that is because `ls` prints out all of the files and folders under the current directory, and these are the files under the lecture1 directory
+2. I got the output of `Hello.class` `Hello.java` `messages` `README`, and that is because `ls` prints out all of the files and folders under the current directory, and these are the files under the `/home/lecture1` directory
 3. The output is not an error.
 
 ## **ls with file**
