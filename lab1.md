@@ -21,7 +21,7 @@
 ## **ls with no argument**
 ![Image](lsnoarg.png)
 1. The working directory was `home`
-2. I got the output of `lecture1` and that is because `ls` prints out all the files and folders from the current working directory, and since I had no argument, it printed out the folder in the home directory.
+2. I got the output of `lecture1` and that is because `ls` prints out all the files and folders from the current working directory, and since I had no argument, it printed out the folder in the `home` directory.
 3. The output is not an error.
 
 ## **ls with directory**
