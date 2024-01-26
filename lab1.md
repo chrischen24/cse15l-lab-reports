@@ -14,7 +14,7 @@
 
 ## **cd with file**
 ![Image](cdfile.png)
-1. The working directory was `lecture1`
+1. The working directory was `/home/lecture1`
 2. I got an output saying that the file I put in as an argument is not a directory, and that makes sense in this situation because `cd` is used to change the directory we are in and `Hello.java` is not a directory.
 3. The output was an error and its an error because we put in a file as an argument when it only takes in a directory.
 
@@ -32,7 +32,7 @@
 
 ## **ls with file**
 ![Image](lsfile.png)
-1. The working directory was `lecture1`.
+1. The working directory was `/home/lecture1`.
 2. I got the output of `Hello.java` and that is because I passed in the argument `Hello.java`. When specified, `ls` prints out the file that is passed in as the argument.
 3. The output is not an error.
 
@@ -50,6 +50,6 @@
 
 ## **cat with file**
 ![Image](catfile.png)
-1. The working directory was `lecture1`.
+1. The working directory was `/home/lecture1`.
 2. The output printed out the contents of the file `README`, which I passed in as the argument. This is our expected output since `cat` concatenates and prints out the contents of the file.
 3. The output is not an error.
