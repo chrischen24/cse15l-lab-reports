@@ -9,7 +9,7 @@
 ## **cd with directory**
 ![Image](cddirectory.png)
 1. The working directory was `home`
-2. There wasn't an actual output when I passed in a directory into the argument, but it changed the terminal by changing the directory to `/home/lecture`, which is was we wanted and expected from this.
+2. There wasn't an actual output when I passed in a directory into the argument, but it changed the terminal by changing the directory to `/home/lecture1`, which is was we wanted and expected from this.
 3. The output is not an error.
 
 ## **cd with file**
