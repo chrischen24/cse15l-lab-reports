@@ -3,7 +3,7 @@
 ![Image](cdnoarg.png)
 ![Image](cdnoarg2.png)
 1. The working directory was `home`
-2. I got this output (nothing) because the command `cd` is supposed to bring us back to the 'home' directory, and since we are in the home directory, we stay there. if we were in a different directory, such as `/home/lecuture1` or `/home/lecture1/messages`, it would bring us back to `home`.
+2. I got this output (nothing) because the command `cd` is supposed to bring us back to the `home` directory, and since we are in the `home` directory, we stay there. if we were in a different directory, such as `/home/lecuture1` or `/home/lecture1/messages`, it would bring us back to `home`.
 3. The output is not an error.
 
 ## **cd with directory**
