@@ -4,10 +4,10 @@
 This is a picture of the code for my `ChatServer`. There are multiple methods in my code that are called when I add a message, such as `getPath()`, `getQuery()`, `split()`, and the method that actually takes in the url `handleRequest()`. `The handleRequest()` has a argument and that is the url itself. The `getPath()` and `getQuery()` methods don’t have any arguments, but they require a url to be able to work on. The `split()` method requires a string argument because that string dictates where the longer string will be split. I created three relevant fields in this class - a `name` string, a `message` string, and a `finalString` string. The `name` string gets updated to the user that's passed in when `/add` is run, and the `message` string gets updated to the message that is passed in when `/add` is run. The `finalString` string concatenates the `<user> : <message>` string everytime the `/add` method is run.
 
 ![Image](add1.png)
-**This is one instance of me using `/add-message`.**
+This is one instance of me using `/add-message`.
 
 ![Image](add2.png)
-**This is another instance of me using `/add-message`.**
+This is another instance of me using `/add-message`.
 
 
 ## **Part 2**
