@@ -12,9 +12,11 @@ This is another instance of me using `/add-message`.
 
 ## **Part 2**
 ![Image](abspath.png)
+
 This is the absoulute path to the public key.
 
 ![Image](privabs.png)
+
 This is the absolute path to the private key.
 
 ![Image](loginnopass.png)
