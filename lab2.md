@@ -12,10 +12,10 @@ This is another instance of me using `/add-message`.
 
 ## **Part 2**
 ![Image](abspath.png)
--This is the absoulute path to the public key.
+This is the absoulute path to the public key.
 
 ![Image](privabs.png)
--This is the absolute path to the private key.
+This is the absolute path to the private key.
 
 ![Image](loginnopass.png)
 This in an instance of me logging into my `ieng6` account in the terminal **without** being asked for my password.
