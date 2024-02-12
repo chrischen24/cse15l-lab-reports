@@ -1,18 +1,18 @@
 # **Lab 2** 
 ## **Part 1**
 ![Image](chatServer.png)
-This is a picture of the code for my `ChatServer`. There are multiple methods in my code that are called when I add a message, such as `getPath()`, `getQuery()`, `split()`, and the method that actually takes in the url `handleRequest()`. `The handleRequest()` has a argument and that is the url itself. The `getPath()` and `getQuery()` methods don’t have any arguments, but they require a url to be able to work on. The `split()` method requires a string argument because that string dictates where the longer string will be split. I created three relevant fields in this class - a `name` string, a `message` string, and a `finalString` string. The `name` string gets updated to the user that's passed in when `/add-message` is run, and the `message` string gets updated to the message that is passed in when `/add-message` is run. The `finalString` string concatenates the `<user> : <message>` string everytime the `/add-message-message` method is run.
+This is a picture of the code for my `ChatServer`. There are multiple methods in my code that are called when I add a message, such as `getPath()`, `getQuery()`, `split()`, and the method that actually takes in the url `handleRequest()`. `The handleRequest()` has a argument and that is the url itself. The `getPath()` and `getQuery()` methods don’t have any arguments, but they require a url to be able to work on. The `split()` method requires a string argument because that string dictates where the longer string will be split. I created three loccal variables in this class - a `name` string, a `message` string, and a `finalString` string. The `name` string gets updated to the user that's passed in when `/add-message` is run, and the `message` string gets updated to the message that is passed in when `/add-message` is run. The `finalString` string concatenates the `<user> : <message>` string everytime the `/add-message-message` method is run.
 
 ![Image](add1.png)
-This is one instance of me using `/add-message-message-message`.
+This is one instance of me using `/add-message`.
 
 ![Image](add2.png)
-This is another instance of me using `/add-message-message`.
+This is another instance of me using `/add-message`.
 
 
 ## **Part 2**
-![Image](absolutePath.png)
-The first line is the absolute path of the private key, and the second line is the aboslute path of the public key, hence the `.pub` at the end of the path.
+![Image](abspath.png)
+-This is the absoulute path to the public key.
 
 ![Image](loginnopass.png)
 This in an instance of me logging into my `ieng6` account in the terminal **without** being asked for my password.
