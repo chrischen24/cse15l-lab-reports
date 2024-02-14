@@ -20,3 +20,10 @@ This is the `ArrayExamples.java` class that we were provided during the lab whic
 
 ![Image](junittest.png)
 -This is the symptom/output of junit running the faliure and non faliure inducing inputs.
+
+**Before code of buggy method**
+ `double sum = 0;
+    for(double num: arr) {
+      if(num != lowest) { sum += num; }
+    }
+    return sum / (arr.length - 1);`
