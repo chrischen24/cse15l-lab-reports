@@ -94,33 +94,33 @@ Military Notification and Response. NEADS first received a call about United 93 
 
 **Third command option(-r)**
 - Command: ` grep -r "New York" plos`
-- Output: `plos/pmed.0020065.txt:        applying it to data collected from hospital emergency departments in New York City. The
-plos/pmed.0020065.txt:        analyze emergency department data in New York City in parallel with other methods, and it
-plos/pmed.0020059.txt:          New York City Emergency Department Syndromic Surveillance System
-plos/pmed.0020059.txt:          The New York City Emergency Department syndromic surveillance system is described in
-plos/pmed.0020059.txt:          illness. As of November 2002, 38 of New York City's 66 emergency departments were
-plos/pmed.0020059.txt:          Implementation for New York City Syndromic Surveillance
-plos/pmed.0020059.txt:          the new method in New York City, a number of highly significant outbreak signals were
-plos/pmed.0020059.txt:          December, driven by an unusually early influenza season in New York City.
-plos/pmed.0020059.txt:        space–time scan statistic. When applied to the New York City diarrhea data described above,
-plos/pmed.0020060.txt:        successfully bigamous marriages in New York and California.
-plos/pmed.0020060.txt:        affair with a New York dancer. Dr. Charles Boyd had tried to prove this paternity with his
-plos/pmed.0020060.txt:        Museum of French Art in New York, auctioned, and finally ending up in the possession of a
-plos/journal.pbio.0030050.txt:        Paleoanthropologist Ralph Holloway (Columbia University, New York, United States) uses
-plos/pmed.0010060.txt:        of clinical trial results [1,2]. The debate has intensified since New York State Attorney
-plos/pmed.0020201.txt:        Institute in New York describe a protocol for deriving mesenchymal precursors, which they
-plos/pmed.0010062.txt:            (Respitrace Ambulatory Monitoring, Ardsley, New York, United States) were used to
-plos/pmed.0020034.txt:        York in 1935, and the recognition that hay fever was a major community problem in New York
-plos/pmed.0020034.txt:        Children in New York, Atlanta, Philadelphia, and Washington, D.C. spend long hours indoors,
-plos/journal.pbio.0020064.txt:        York, New York, United States). Damak says he does not know why the two sets of T1R3
-plos/journal.pbio.0020214.txt:        the main positive impacts of the New York–based International Science Foundation set up by
-plos/journal.pbio.0020214.txt:        Soros Foundation, based in New York] and the Department of Education) (Table 2), reprints
-plos/journal.pbio.0020214.txt:        Cancer Research (LICR) based jointly in Zurich, New York, and London, and the Belozersky
-plos/pmed.0020045.txt:          a kind gift of Nada Abumhrad (SUNY at Stony Brook, New York, United States). Cells were
-plos/pmed.0020045.txt:          following the manufacturer's protocol (Intergen, Purchase, New York, United States) [13].
-plos/journal.pbio.0020404.txt:        Lorna Role and her colleagues at Columbia University in New York City. “In 1995, we turned
-plos/journal.pbio.0020028.txt:        University College of Physicians and Surgeons in New York City. Stein has researched
-plos/pmed.0020040.txt:        effects include weight gain and water retention, and patients with a history of New York`
+- Output: `plos/pmed.0020065.txt:        applying it to data collected from hospital emergency departments in New York City. The`
+`plos/pmed.0020065.txt:        analyze emergency department data in New York City in parallel with other methods, and it`
+`plos/pmed.0020059.txt:          New York City Emergency Department Syndromic Surveillance System`
+`plos/pmed.0020059.txt:          The New York City Emergency Department syndromic surveillance system is described in`
+`plos/pmed.0020059.txt:          illness. As of November 2002, 38 of New York City's 66 emergency departments were`
+`plos/pmed.0020059.txt:          Implementation for New York City Syndromic Surveillance`
+`plos/pmed.0020059.txt:          the new method in New York City, a number of highly significant outbreak signals were`
+`plos/pmed.0020059.txt:          December, driven by an unusually early influenza season in New York City.`
+`plos/pmed.0020059.txt:        space–time scan statistic. When applied to the New York City diarrhea data described above,`
+`plos/pmed.0020060.txt:        successfully bigamous marriages in New York and California.`
+`plos/pmed.0020060.txt:        affair with a New York dancer. Dr. Charles Boyd had tried to prove this paternity with his`
+`plos/pmed.0020060.txt:        Museum of French Art in New York, auctioned, and finally ending up in the possession of a`
+`plos/journal.pbio.0030050.txt:        Paleoanthropologist Ralph Holloway (Columbia University, New York, United States) uses`
+`plos/pmed.0010060.txt:        of clinical trial results [1,2]. The debate has intensified since New York State Attorney`
+`plos/pmed.0020201.txt:        Institute in New York describe a protocol for deriving mesenchymal precursors, which they`
+`plos/pmed.0010062.txt:            (Respitrace Ambulatory Monitoring, Ardsley, New York, United States) were used to`
+`plos/pmed.0020034.txt:        York in 1935, and the recognition that hay fever was a major community problem in New York`
+`plos/pmed.0020034.txt:        Children in New York, Atlanta, Philadelphia, and Washington, D.C. spend long hours indoors,`
+`plos/journal.pbio.0020064.txt:        York, New York, United States). Damak says he does not know why the two sets of T1R3`
+`plos/journal.pbio.0020214.txt:        the main positive impacts of the New York–based International Science Foundation set up by`
+`plos/journal.pbio.0020214.txt:        Soros Foundation, based in New York] and the Department of Education) (Table 2), reprints`
+`plos/journal.pbio.0020214.txt:        Cancer Research (LICR) based jointly in Zurich, New York, and London, and the Belozersky`
+`plos/pmed.0020045.txt:          a kind gift of Nada Abumhrad (SUNY at Stony Brook, New York, United States). Cells were`
+`plos/pmed.0020045.txt:          following the manufacturer's protocol (Intergen, Purchase, New York, United States) [13].`
+`plos/journal.pbio.0020404.txt:        Lorna Role and her colleagues at Columbia University in New York City. “In 1995, we turned`
+`plos/journal.pbio.0020028.txt:        University College of Physicians and Surgeons in New York City. Stein has researched`
+`plos/pmed.0020040.txt:        effects include weight gain and water retention, and patients with a history of New York`
 
 - Command: `grep -r "computer science"`
 - Output: `./government/Gen_Account_Office/pe1019.txt:as chemistry, biology, physics, and computer science."
@@ -162,26 +162,47 @@ plos/pmed.0020040.txt:        effects include weight gain and water retention, a
 `220:    FAA Control Centers often receive information and make operational decisions independently of one another. On 9/11, the four hijacked aircraft were monitored mainly by the centers in Boston, New York, Cleveland, and Indianapolis. Each center thus had part of the knowledge of what was going on across the system. What Boston knew was not necessarily known by centers in New York, Cleveland, or Indianapolis, or for that matter by the Command Center in Herndon or by FAA headquarters in Washington.`
 
 `266:FAA Awareness. Although the Boston Center air traffic controller realized at an early stage that there was something wrong with American 11, he did not immediately interpret the plane's failure to respond as a sign that it had been hijacked. At 8:14, when the flight failed to heed his instruction to climb to 35,000 feet, the controller repeatedly tried to raise the flight. He reached out to the pilot on the emergency frequency. Though there was no response, he kept trying to contact the aircraft.`
+
 `276:    The controller told us that he then knew it was a hijacking. He alerted his supervisor, who assigned another controller to assist him. He redoubled his efforts to ascertain the flight's altitude. Because the controller didn't understand the initial transmission, the manager of Boston Center instructed his quality assurance specialist to "pull the tape" of the radio transmission, listen to it closely, and report back.`
-278:    Between 8:25 and 8:32, in accordance with the FAA protocol, Boston Center managers started notifying their chain of command that American 11 had been hijacked. At 8:28, Boston Center called the Command Center in Herndon to advise that it believed American 11 had been hijacked and was heading toward gr Center's airspace.
-282:    The Herndon Command Center immediately established a teleconference between Boston, New York, and Cleveland Centers so that Boston Center could help the others understand what was happening.
-284:    At 8:34, the Boston Center controller received a third transmission from American 11:
-290:Military Notification and Response. Boston Center did not follow the protocol in seeking military assistance through the prescribed chain of command. In addition to notifications within the FAA, Boston Center took the initiative, at 8:34, to contact the military through the FAA's Cape Cod facility. The center also tried to contact a former alert site in Atlantic City, unaware it had been phased out. At 8:37:52, Boston Center reached NEADS. This was the first notification received by the military-at any level-that American 11 had been hijacked:
-292:    FAA: Hi. Boston Center TMU [Traffic Management Unit], we have a problem here. We have a hijacked aircraft headed towards New York, and we need you guys to, we need someone to scramble some F-16s or something up there, help us out.
-316:    UAL 175: Yeah. We figured we'd wait to go to your center. Ah, we heard a suspicious transmission on our departure out of Boston, ah, with someone, ah, it sounded like someone keyed the mikes and said ah everyone ah stay in your seats.
-356:    Meanwhile, a manager from Boston Center reported that they had deciphered what they had heard in one of the first hijacker transmissions from American 11: Boston Center: Hey . . . you still there?
-360:    Boston Center: . . . as far as the tape, Bobby seemed to think the guy said that "we have planes." Now, I don't know if it was because it was the accent, or if there's more than one, but I'm gonna, I'm gonna reconfirm that for you, and I'll get back to you real quick. Okay? New England Region: Appreciate it.
-364:    Boston Center: Planes, as in plural.
-366:    Boston Center: It sounds like, we're talking to New York, that there's another one aimed at the World Trade Center.
-370:    Boston Center: A second one just hit the Trade Center.
-374:    Boston Center immediately advised the New England Region that it was going to stop all departures at airports under its control. At 9:05, Boston Center confirmed for both the FAA Command Center and the New England Region that the hijackers aboard American 11 said "we have planes." At the same time, New York Center declared "ATC zero"-meaning that aircraft were not permitted to depart from, arrive at, or travel through New York Center's airspace until further notice.
-376:    Within minutes of the second impact, Boston Center instructed its controllers to inform all aircraft in its airspace of the events in New York and to advise aircraft to heighten cockpit security. Boston Center asked the Herndon Command Center to issue a similar cockpit security alert nationwide. We have found no evidence to suggest that the Command Center acted on this request or issued any type of cockpit security alert.
-404:    By 9:25, FAA's Herndon Command Center and FAA headquarters knew two aircraft had crashed into the World Trade Center. They knew American 77 was lost. At least some FAA officials in Boston Center and the New England Region knew that a hijacker on board American 11 had said "we have some planes." Concerns over the safety of other aircraft began to mount. A manager at the Herndon Command Center asked FAA headquarters if they wanted to order a "nationwide ground stop." While this was being discussed by executives at FAA headquarters, the Command Center ordered one at 9:25.
-412:    At 9:21, NEADS received a report from the FAA: FAA: Military, Boston Center. I just had a report that American 11 is still in the air, and it's on its way towards-heading towards Washington. NEADS: Okay. American 11 is still in the air?
-434:    The mention of a "third aircraft" was not a reference to American 77. There was confusion at that moment in the FAA. Two planes had struck the World Trade Center, and Boston Center had heard from FAA headquarters in Washington that American 11 was still airborne. We have been unable to identify the source of this mistaken FAA information.
-440:    At the suggestion of the Boston Center's military liaison, NEADS contacted the FAA's Washington Center to ask about American 11. In the course of the conversation, a Washington Center manager informed NEADS:"We're looking- we also lost American 77." The time was 9:34. This was the first notice to the military that American 77 was missing, and it had come by chance. If NEADS had not placed that call, the NEADS air defenders would have received no information whatsoever that the flight was even missing, although the FAA had been searching for it. No one at FAA headquarters ever asked for military assistance with American 77.
-442:    At 9:36, the FAA's Boston Center called NEADS and relayed the discovery about an unidentified aircraft closing in on Washington:"Latest report. Aircraft VFR [visual flight rules] six miles southeast of the White House. . . . Six, southwest. Six, southwest of the White House, deviating away." This startling news prompted the mission crew commander at NEADS to take immediate control of the airspace to clear a flight path for the Langley fighters:"Okay, we're going to turn it . . . crank it up. . . . Run them to the White House." He then discovered, to his surprise, that the Langley fighters were not headed north toward the Baltimore area as instructed, but east over the ocean." I don't care how many windows you break," he said." Damn it. . . . Okay. Push them back."
-448:    Right after the Pentagon was hit, NEADS learned of another possible hijacked aircraft. It was an aircraft that in fact had not been hijacked at all. After the second World Trade Center crash, Boston Center managers recognized that both aircraft were transcontinental 767 jetliners that had departed Logan Airport. Remembering the "we have some planes" remark, Boston Center guessed that Delta 1989 might also be hijacked. Boston Center called NEADS at 9:41 and identified Delta 1989, a 767 jet that had left Logan Airport for Las Vegas, as a possible hijack. NEADS warned the FAA's Cleveland Center to watch Delta 1989. The Command Center and FAA headquarters watched it too. During the course of the morning, there were multiple erroneous reports of hijacked aircraft. The report of American 11 heading south was the first; Delta 1989 was the second.
-598:    We found no evidence that, at this critical time, NORAD's top commanders, in Florida or Cheyenne Mountain, coordinated with their counterparts at FAA headquarters to improve awareness and organize a common response. Lower-level officials improvised-for example, the FAA's Boston Center bypassed the chain of command and directly contacted NEADS after the first hijacking. But the highest-level Defense Department officials relied on the NMCC's air threat conference, in which the FAA did not participate for the first 48 minutes.`
+
+`278:    Between 8:25 and 8:32, in accordance with the FAA protocol, Boston Center managers started notifying their chain of command that American 11 had been hijacked. At 8:28, Boston Center called the Command Center in Herndon to advise that it believed American 11 had been hijacked and was heading toward gr Center's airspace.`
+
+`282:    The Herndon Command Center immediately established a teleconference between Boston, New York, and Cleveland Centers so that Boston Center could help the others understand what was happening.`
+
+`284:    At 8:34, the Boston Center controller received a third transmission from American 11:`
+
+`290:Military Notification and Response. Boston Center did not follow the protocol in seeking military assistance through the prescribed chain of command. In addition to notifications within the FAA, Boston Center took the initiative, at 8:34, to contact the military through the FAA's Cape Cod facility. The center also tried to contact a former alert site in Atlantic City, unaware it had been phased out. At 8:37:52, Boston Center reached NEADS. This was the first notification received by the military-at any level-that American 11 had been hijacked:`
+
+`292:    FAA: Hi. Boston Center TMU [Traffic Management Unit], we have a problem here. We have a hijacked aircraft headed towards New York, and we need you guys to, we need someone to scramble some F-16s or something up there, help us out.`
+
+`316:    UAL 175: Yeah. We figured we'd wait to go to your center. Ah, we heard a suspicious transmission on our departure out of Boston, ah, with someone, ah, it sounded like someone keyed the mikes and said ah everyone ah stay in your seats.`
+
+`356:    Meanwhile, a manager from Boston Center reported that they had deciphered what they had heard in one of the first hijacker transmissions from American 11: Boston Center: Hey . . . you still there?`
+
+`360:    Boston Center: . . . as far as the tape, Bobby seemed to think the guy said that "we have planes." Now, I don't know if it was because it was the accent, or if there's more than one, but I'm gonna, I'm gonna reconfirm that for you, and I'll get back to you real quick. Okay? New England Region: Appreciate it.`
+
+`364:    Boston Center: Planes, as in plural.`
+
+`366:    Boston Center: It sounds like, we're talking to New York, that there's another one aimed at the World Trade Center.`
+
+`370:    Boston Center: A second one just hit the Trade Center.`
+
+`374:    Boston Center immediately advised the New England Region that it was going to stop all departures at airports under its control. At 9:05, Boston Center confirmed for both the FAA Command Center and the New England Region that the hijackers aboard American 11 said "we have planes." At the same time, New York Center declared "ATC zero"-meaning that aircraft were not permitted to depart from, arrive at, or travel through New York Center's airspace until further notice.`
+
+`376:    Within minutes of the second impact, Boston Center instructed its controllers to inform all aircraft in its airspace of the events in New York and to advise aircraft to heighten cockpit security. Boston Center asked the Herndon Command Center to issue a similar cockpit security alert nationwide. We have found no evidence to suggest that the Command Center acted on this request or issued any type of cockpit security alert.`
+
+`404:    By 9:25, FAA's Herndon Command Center and FAA headquarters knew two aircraft had crashed into the World Trade Center. They knew American 77 was lost. At least some FAA officials in Boston Center and the New England Region knew that a hijacker on board American 11 had said "we have some planes." Concerns over the safety of other aircraft began to mount. A manager at the Herndon Command Center asked FAA headquarters if they wanted to order a "nationwide ground stop." While this was being discussed by executives at FAA headquarters, the Command Center ordered one at 9:25.`
+
+`412:    At 9:21, NEADS received a report from the FAA: FAA: Military, Boston Center. I just had a report that American 11 is still in the air, and it's on its way towards-heading towards Washington. NEADS: Okay. American 11 is still in the air?`
+
+`434:    The mention of a "third aircraft" was not a reference to American 77. There was confusion at that moment in the FAA. Two planes had struck the World Trade Center, and Boston Center had heard from FAA headquarters in Washington that American 11 was still airborne. We have been unable to identify the source of this mistaken FAA information.`
+
+`440:    At the suggestion of the Boston Center's military liaison, NEADS contacted the FAA's Washington Center to ask about American 11. In the course of the conversation, a Washington Center manager informed NEADS:"We're looking- we also lost American 77." The time was 9:34. This was the first notice to the military that American 77 was missing, and it had come by chance. If NEADS had not placed that call, the NEADS air defenders would have received no information whatsoever that the flight was even missing, although the FAA had been searching for it. No one at FAA headquarters ever asked for military assistance with American 77.`
+
+`442:    At 9:36, the FAA's Boston Center called NEADS and relayed the discovery about an unidentified aircraft closing in on Washington:"Latest report. Aircraft VFR [visual flight rules] six miles southeast of the White House. . . . Six, southwest. Six, southwest of the White House, deviating away." This startling news prompted the mission crew commander at NEADS to take immediate control of the airspace to clear a flight path for the Langley fighters:"Okay, we're going to turn it . . . crank it up. . . . Run them to the White House." He then discovered, to his surprise, that the Langley fighters were not headed north toward the Baltimore area as instructed, but east over the ocean." I don't care how many windows you break," he said." Damn it. . . . Okay. Push them back."`
+
+`448:    Right after the Pentagon was hit, NEADS learned of another possible hijacked aircraft. It was an aircraft that in fact had not been hijacked at all. After the second World Trade Center crash, Boston Center managers recognized that both aircraft were transcontinental 767 jetliners that had departed Logan Airport. Remembering the "we have some planes" remark, Boston Center guessed that Delta 1989 might also be hijacked. Boston Center called NEADS at 9:41 and identified Delta 1989, a 767 jet that had left Logan Airport for Las Vegas, as a possible hijack. NEADS warned the FAA's Cleveland Center to watch Delta 1989. The Command Center and FAA headquarters watched it too. During the course of the morning, there were multiple erroneous reports of hijacked aircraft. The report of American 11 heading south was the first; Delta 1989 was the second.`
+
+`598:    We found no evidence that, at this critical time, NORAD's top commanders, in Florida or Cheyenne Mountain, coordinated with their counterparts at FAA headquarters to improve awareness and organize a common response. Lower-level officials improvised-for example, the FAA's Boston Center bypassed the chain of command and directly contacted NEADS after the first hijacking. But the highest-level Defense Department officials relied on the NMCC's air threat conference, in which the FAA did not participate for the first 48 minutes.`
 
 -The two commands that I used with `grep -n` looked for and returned the line in the file where the specified string ("computer" and "Boston") was located. If there are multiple occurences, it returns all lines that include the specified string. This would be useful in the case where we are looking for the specific locations of occurences for a specified string.
