@@ -94,7 +94,7 @@ Military Notification and Response. NEADS first received a call about United 93 
 - The two commands that I used with `grep -c` returned the number of lines that contianed the string that I was looking for ("Pentagon" and "New York"). This command would be useful when trying to find the amount of lines that contain a word/string that we are looking for.
 
 **Third command option(-r)**
-- Command: ` grep -r "New York" plos`
+- Command: `grep -r "New York" plos`
 - Output:
 `plos/pmed.0020065.txt:        applying it to data collected from hospital emergency departments in New York City. The`
   
