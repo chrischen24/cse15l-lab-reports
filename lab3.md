@@ -38,3 +38,5 @@ This is the `ArrayExamples.java` class that we were provided during the lab whic
       }
     }
     return sum / (numDivideby);`
+
+## **Part 2- Researching Commands**
