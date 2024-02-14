@@ -27,3 +27,14 @@ This is the `ArrayExamples.java` class that we were provided during the lab whic
       if(num != lowest) { sum += num; }
     }
     return sum / (arr.length - 1);`
+
+  **Code after fixing bug**
+  `double sum = 0;
+    double numDivideby=0;
+    for(double num: arr) {
+      if(num != lowest) { 
+        sum += num; 
+        numDivideby+=1;
+      }
+    }
+    return sum / (numDivideby);`
