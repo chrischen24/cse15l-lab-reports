@@ -94,32 +94,59 @@ Military Notification and Response. NEADS first received a call about United 93 
 
 **Third command option(-r)**
 - Command: ` grep -r "New York" plos`
-- Output: `plos/pmed.0020065.txt:        applying it to data collected from hospital emergency departments in New York City. The`
+- Output:
+`plos/pmed.0020065.txt:        applying it to data collected from hospital emergency departments in New York City. The`
+  
 `plos/pmed.0020065.txt:        analyze emergency department data in New York City in parallel with other methods, and it`
+
 `plos/pmed.0020059.txt:          New York City Emergency Department Syndromic Surveillance System`
+
 `plos/pmed.0020059.txt:          The New York City Emergency Department syndromic surveillance system is described in`
+
 `plos/pmed.0020059.txt:          illness. As of November 2002, 38 of New York City's 66 emergency departments were`
+
 `plos/pmed.0020059.txt:          Implementation for New York City Syndromic Surveillance`
+
 `plos/pmed.0020059.txt:          the new method in New York City, a number of highly significant outbreak signals were`
+
 `plos/pmed.0020059.txt:          December, driven by an unusually early influenza season in New York City.`
+
 `plos/pmed.0020059.txt:        space–time scan statistic. When applied to the New York City diarrhea data described above,`
+
 `plos/pmed.0020060.txt:        successfully bigamous marriages in New York and California.`
+
 `plos/pmed.0020060.txt:        affair with a New York dancer. Dr. Charles Boyd had tried to prove this paternity with his`
+
 `plos/pmed.0020060.txt:        Museum of French Art in New York, auctioned, and finally ending up in the possession of a`
+
 `plos/journal.pbio.0030050.txt:        Paleoanthropologist Ralph Holloway (Columbia University, New York, United States) uses`
+
 `plos/pmed.0010060.txt:        of clinical trial results [1,2]. The debate has intensified since New York State Attorney`
+
 `plos/pmed.0020201.txt:        Institute in New York describe a protocol for deriving mesenchymal precursors, which they`
+
 `plos/pmed.0010062.txt:            (Respitrace Ambulatory Monitoring, Ardsley, New York, United States) were used to`
+
 `plos/pmed.0020034.txt:        York in 1935, and the recognition that hay fever was a major community problem in New York`
+
 `plos/pmed.0020034.txt:        Children in New York, Atlanta, Philadelphia, and Washington, D.C. spend long hours indoors,`
+
 `plos/journal.pbio.0020064.txt:        York, New York, United States). Damak says he does not know why the two sets of T1R3`
+
 `plos/journal.pbio.0020214.txt:        the main positive impacts of the New York–based International Science Foundation set up by`
+
 `plos/journal.pbio.0020214.txt:        Soros Foundation, based in New York] and the Department of Education) (Table 2), reprints`
+
 `plos/journal.pbio.0020214.txt:        Cancer Research (LICR) based jointly in Zurich, New York, and London, and the Belozersky`
+
 `plos/pmed.0020045.txt:          a kind gift of Nada Abumhrad (SUNY at Stony Brook, New York, United States). Cells were`
+
 `plos/pmed.0020045.txt:          following the manufacturer's protocol (Intergen, Purchase, New York, United States) [13].`
+
 `plos/journal.pbio.0020404.txt:        Lorna Role and her colleagues at Columbia University in New York City. “In 1995, we turned`
+
 `plos/journal.pbio.0020028.txt:        University College of Physicians and Surgeons in New York City. Stein has researched`
+
 `plos/pmed.0020040.txt:        effects include weight gain and water retention, and patients with a history of New York`
 
 - Command: `grep -r "computer science"`
