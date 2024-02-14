@@ -1,4 +1,4 @@
-## **Lab 3** 
+# **Lab 3** 
 ## **Part 1 - Bugs**
 
 ![Image](faulty.png)
@@ -234,6 +234,6 @@ Military Notification and Response. NEADS first received a call about United 93 
 
 -The two commands that I used with `grep -n` looked for and returned the line in the file where the specified string ("computer" and "Boston") was located. If there are multiple occurences, it returns all lines that include the specified string. This would be useful in the case where we are looking for the specific locations of occurences for a specified string.
 
-# **Sources**
+## **Sources**
 - https://man7.org/linux/man-pages/man1/grep.1.html
 - https://docs.rackspace.com/docs/use-the-linux-grep-command
