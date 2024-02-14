@@ -19,4 +19,4 @@ This is the `ArrayExamples.java` class that we were provided during the lab whic
   This input does not produce a faulty output because since there is only one "lowest", the program accounts for that and divides the remaning numbers by the length of the array minus one, which makes sense since there is only one number being removed.
 
 ![Image](junittest.png)
-
+-This is the symptom/output of junit running the faliure and non faliure inducing inputs.
