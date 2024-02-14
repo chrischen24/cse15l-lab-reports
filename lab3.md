@@ -233,3 +233,7 @@ Military Notification and Response. NEADS first received a call about United 93 
 `598:    We found no evidence that, at this critical time, NORAD's top commanders, in Florida or Cheyenne Mountain, coordinated with their counterparts at FAA headquarters to improve awareness and organize a common response. Lower-level officials improvised-for example, the FAA's Boston Center bypassed the chain of command and directly contacted NEADS after the first hijacking. But the highest-level Defense Department officials relied on the NMCC's air threat conference, in which the FAA did not participate for the first 48 minutes.`
 
 -The two commands that I used with `grep -n` looked for and returned the line in the file where the specified string ("computer" and "Boston") was located. If there are multiple occurences, it returns all lines that include the specified string. This would be useful in the case where we are looking for the specific locations of occurences for a specified string.
+
+# **Sources**
+- https://man7.org/linux/man-pages/man1/grep.1.html
+- https://docs.rackspace.com/docs/use-the-linux-grep-command
