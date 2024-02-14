@@ -41,6 +41,7 @@ This is the `ArrayExamples.java` class that we were provided during the lab whic
 
 ## **Part 2- Researching Commands**
 -The command that I am researching is `grep`.
+
 **First command option (-i)**
 - Command: ` grep -i  Hani chapter-1.txt`
 - Output: ` Washington Dulles: American 77. Hundreds of miles southwest of Boston, at Dulles International Airport in the Virginia suburbs of Washington, D.C., five more men were preparing to take their early morning flight. At 7:15, a pair of them, Khalid al Mihdhar and Majed Moqed, checked in at the American Airlines ticket counter for Flight 77, bound for Los Angeles. Within the next 20 minutes, they would be followed by Hani Hanjour and two brothers, Nawaf al Hazmi and Salem al Hazmi.
