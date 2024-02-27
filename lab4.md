@@ -5,6 +5,6 @@
 
 ## **Step 5 - Clone forked repository**
 ![Image](gitclone.png)
-- The command that I used during this step to clone the forked repository from my Github account (the `SSH` URL) was `git clone git@github.com:chrischen24/lab7.git`.
+- The command I used during this step to clone the forked repository from my Github account (the `SSH` URL) was `git clone git@github.com:chrischen24/lab7.git`.
 
 
