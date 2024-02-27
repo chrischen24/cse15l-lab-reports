@@ -16,10 +16,13 @@
 ## **Step 7 - Edit the code**
 ![Image](vim.png)
 - To edit the file using the vim text editor, I used the command `vim ListExamples.java` to enter `vim` on the `ListExamples.java` file.
+
 ![Image](indexorig.png)
 - Once I entered the `vim`, my cursor was already on the `index1` variable that I needed to change.
+
 ![Image](indexfixed.png)
 - Since my cusor was already on the `1` of `index1`, all I had to do was click `<r>` which is used to replace a single character, and then I typed `<2>` to change the `index1` to `index2`.
+
 ![Image](wq.png)
 - After making the changed I needed, I typed `<:><w><q>`. This types out `:wq` on the bottom of the file in `vim`, which should allow us to save the changes we made and exit out of `vim`. I then clicked `<enter>` to actually save our changed and exit out of `vim`.
 
