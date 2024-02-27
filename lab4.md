@@ -7,4 +7,10 @@
 ![Image](gitclone.png)
 - The command I used during this step to clone the forked repository from my Github account (the `SSH` URL) was `git clone git@github.com:chrischen24/lab7.git`.
 
+## **Step 6 - Show that tests fail**
+![Image](testfail.png)
+- I first changed the into the `lab7` directory from my current directory by using `cd lab7`.
+- Then I used the `ls` command to list the files that were in the `lab7` directory.
+- Seeing that there was a `test.sh` shell script file, I used `bash test.sh` to run the `test.sh` file. After it ran, we can see that 2 tests were run and 1 of them failed.
+
 
