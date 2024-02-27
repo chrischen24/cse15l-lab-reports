@@ -21,6 +21,6 @@
 ![Image](indexfixed.png)
 - Since my cusor was already on the `1` of `index1`, all I had to do was click `<r>` which is used to replace a single character, and then I typed `<2>` to change the `index1` to `index2`.
 ![Image](wq.png)
-- After making the changed I needed, I typed `<:>` and then `<w>` and then `<q>`. This types out `:wq` on the bottom of the file in `vim`, which should allow us to save the changes we made and exit out of `vim`. I then clicked `<enter>` to actually save our changed and exit out of `vim`.
+- After making the changed I needed, I typed `<:><w><q>`. This types out `:wq` on the bottom of the file in `vim`, which should allow us to save the changes we made and exit out of `vim`. I then clicked `<enter>` to actually save our changed and exit out of `vim`.
 
 
