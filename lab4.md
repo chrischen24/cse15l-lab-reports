@@ -23,4 +23,8 @@
 ![Image](wq.png)
 - After making the changed I needed, I typed `<:><w><q>`. This types out `:wq` on the bottom of the file in `vim`, which should allow us to save the changes we made and exit out of `vim`. I then clicked `<enter>` to actually save our changed and exit out of `vim`.
 
+## **Step 8 - Show that tests pass**
+![Image](testpass.png)
+- I used the command `bash test.sh` again to re-run the tests, and this time it shows that two tests ran and none failed.
+
 
