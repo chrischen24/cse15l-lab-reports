@@ -27,4 +27,8 @@
 ![Image](testpass.png)
 - I used the command `bash test.sh` again to re-run the tests, and this time it shows that two tests ran and none failed.
 
+## **Step 9 - Commit and push changes**
+![Image](addcompush.png)
+- I first used `git add .` to stage all files in the directory for it to be committed. This is essentially just preparing the files to be committed and pushed. I then used `git commit -m "Changed index1 to index2"` to actually record and save the changes that were made and the `-m` allows me to attach a message to my commitment. The `git push` command actually takes the saved changes from my local repository and sends them to the remote repository which is on our github page.
+
 
