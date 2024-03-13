@@ -19,3 +19,9 @@
   that variables are being updated accordingly, and making sure that the preconditions are valid conditions.
   
   Looking at your `merge` method in `ListExamples`, I can see that you have two while loops in there. Try making sure that those variables being     updated are the correct varibales/being updated properly according to your program. If you have more questions/issues after that, feel free to make    another post.
+
+* ### **Anonymous Student**
+   *30 minutes ago in general*
+
+  Oh my goodness thank you so much Chris you are the best TA ever. The issue seemed to be that I was incrementing the wrong varibale in one of my while loops.
+  ![Image](studentsuccess.png)
