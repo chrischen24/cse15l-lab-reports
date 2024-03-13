@@ -24,4 +24,5 @@
    *30 minutes ago in general*
 
   Oh my goodness thank you so much Chris you are the best TA ever. The issue seemed to be that I was incrementing the wrong varibale in one of my while loops.
+  
   ![Image](studentsuccess.png)
