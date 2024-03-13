@@ -23,7 +23,7 @@
 * ### **Anonymous Student**
    *30 minutes ago in general*
 
-  Oh my goodness thank you so much Chris you are the best TA ever. The issue seemed to be that I was incrementing the wrong varibale in one of my while loops. After I changed `index1` to `index2` in my second while loop using `vim`, the error disappeared an my tests pass now.
+  Oh my goodness thank you so much Chris you are the best TA ever. The issue seemed to be that I was incrementing the wrong varibale in one of my while loops. After I changed `index1` to `index2` in my second while loop using `vim`, the error disappeared an my tests pass now. Since I was indexing the wrong variable in the while loop, the loop never ended, causing the test to time out.
   
   ![Image](studentsuccess.png) ![Image](fileafterfix.png)
 
