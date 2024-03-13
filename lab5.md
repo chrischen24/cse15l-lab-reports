@@ -4,8 +4,7 @@
 * ### **Anonymous Student**
    *2 hours ago in general*
 
-  Hello super helpful TA's. I am having an issue with my test cases and im super frustrated. When I run the bash script to test my methods and grade 
-  the testers, it produces an error saying that my test timed out. 
+  Hello super helpful TA's. I am having an issue with my test cases and im super frustrated. When I run `bash test.sh` (the bash script) to test my methods and grade the testers, it produces an error saying that my test timed out. 
   ![Image](studenterror.png)
   I have a bash sript that automatically compliles all of the files and runs the test file, and grades my tests accordingly.
   ![Image](studentbash.png)
@@ -23,7 +22,7 @@
 * ### **Anonymous Student**
    *30 minutes ago in general*
 
-  Oh my goodness thank you so much Chris you are the best TA ever. The issue seemed to be that I was incrementing the wrong varibale in one of my while loops. After I changed `index1` to `index2` in my second while loop using `vim`, the error disappeared an my tests pass now. Since I was indexing the wrong variable in the while loop, the loop never ended, causing the test to time out.
+  Oh my goodness thank you so much Chris you are the best TA ever. The issue seemed to be that I was incrementing the wrong varibale in one of my while loops. After I changed `index1` to `index2` in my second while loop using `vim`, the error disappeared and now when I run `bash test.sh`, my tests pass now. Since I was indexing the wrong variable in the while loop, the loop never ended, causing the test to time out.
   
   ![Image](studentsuccess.png) ![Image](fileafterfix.png)
 
