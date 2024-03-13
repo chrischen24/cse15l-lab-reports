@@ -28,4 +28,6 @@
   ![Image](studentsuccess.png) ![Image](fileafterfix.png)
 
 ## **Part 2- Reflection**
+
+The coolest/most useful thing that I've learned during the second portion of our lab this quarter is definitely `vim`. I knew what text editors were before this, but I never knew about `vim`. I find it cool how you can access and edit a file without directly changing the file itself. The main part that I find cool about it is how you can "edit" other peoples files (I put edit because you aren't directly changing their files but recommending changes), and use git to commit and push the changes to the or
   
